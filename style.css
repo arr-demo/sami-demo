@@ -7,6 +7,8 @@ h1, h2{
     
 }
 
+
+
 #become-succ {
     height: auto;
     padding: 4rem;
@@ -24,8 +26,12 @@ h1, h2{
     border-bottom-left-radius: 15%;
 }
 
+.shaded {
+    color: rgb(136, 130, 130);
+}
+
 .footer {
-    height: 130px;
+    height: 130px !important;
 }
 
 #pricing {
