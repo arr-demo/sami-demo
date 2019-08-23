@@ -21,3 +21,7 @@ h1, h2{
 .card {
     border: 0.5px solid white !important;
 }
+
+.footer {
+    height: 130px;
+}
