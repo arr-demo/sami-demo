@@ -20,6 +20,8 @@ h1, h2{
 
 .card {
     border: 0.5px solid white !important;
+    border-top-right-radius: 25%;
+    border-bottom-left-radius: 15%;
 }
 
 .footer {
