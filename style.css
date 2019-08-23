@@ -1,0 +1,23 @@
+#hero-img {
+    text-align: center;
+}
+
+h1, h2{
+    margin-bottom: 2.5rem !important; 
+    
+}
+
+#become-succ {
+    height: auto;
+    padding: 4rem;
+}
+
+#features {
+    padding: 4rem;
+    height: auto;
+    background-color: rgb(245, 241, 241);
+}
+
+.card {
+    border: 0.5px solid white !important;
+}
