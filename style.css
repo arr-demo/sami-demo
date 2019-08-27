@@ -44,6 +44,8 @@ h1, h2{
     background: whitesmoke;
     text-align: center;
     padding: 2rem;
+    width:auto;
+    overflow: hidden;
 }
 
 .plan-name {
@@ -52,7 +54,7 @@ h1, h2{
 }
 
 .price {
-    font-size: 5rem;
+    font-size: 3em;
 }
 
 #social{
