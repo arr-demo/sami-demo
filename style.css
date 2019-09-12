@@ -86,6 +86,10 @@ label {
     padding-top: 1.5rem;
 }
 
+#footer-content .buttons {
+    justify-content: center !important;
+}
+
 
 
  
