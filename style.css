@@ -97,6 +97,19 @@ label {
 
 #footer-content .buttons {
     justify-content: center !important;
+
+}
+
+#test-div {
+    height: 200px;
+}
+
+#footer-content {
+    margin-bottom: 20px;
+}
+
+#footer {
+    height: 500px;
 }
 
 .navbar-menu.is-active {
@@ -135,7 +148,7 @@ label {
         opacity: 1;
         height: auto;
     }
-    }
+}
 
 
  
